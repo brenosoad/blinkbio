@@ -1,4 +1,7 @@
-# PróLINK – plataforma de link na bio
+# BlinkBio
+_by Creative Codex_
+
+Plataforma de link na bio com imagem: um template, uma pasta por cliente e painel do criador.
 
 - `index.html`: template único. `?c=<slug>` carrega `clients/<slug>/config.json`.
 - `clients/<slug>/`: config e imagens de cada cliente.
