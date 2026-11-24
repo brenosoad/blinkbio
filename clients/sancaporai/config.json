@@ -8,7 +8,7 @@
   "favicon": "img/favicon.png",
   "iconeApple": "img/apple-touch-icon.png",
   "og": "img/og.jpg",
-  "analytics": "/api/track",
+  "analytics": "/api/blinkbio/track",
   "numeros": [
     { "valor": "+97 mil", "rotulo": "Seguidores" },
     { "valor": "+300 mil", "rotulo": "Contas/mês" },
